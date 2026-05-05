@@ -90,4 +90,8 @@ Original assumes a car and a clinic nearby. New prompt calculates realistic trav
 
 **Key Improvement over Original:** *Reduced panic + verifiable safety.*  
 Original invites vague, ungrounded advice (“maybe just rest”) that could delay care for eclampsia or hemorrhage. CoT forces internal red-flag detection; Verifier pattern ensures user confirms symptoms before escalation – minimizing false alarms while catching real emergencies.
+Reflection (100 word)
+This challenge changed my view from “AI as general knowledge bank” to “AI as constrained decision-support.” In healthcare precision is not optimization—it’s ethics. A model that suggests salmon to a mother who only eats matooke is not biased; it’s negligent. The AIM + MAP frameworks transform LLMs from overconfident generalists into humble, local tools. I now believe that AI’s greatest risk in low-resource settings isn’t malice but irrelevant advice delivered with authority. Our job is to shrink the solution space before the model speaks. That’s where real safety begins.
+
+
 
